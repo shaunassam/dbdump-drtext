@@ -1,0 +1,38 @@
+﻿Dr14 T.meter 1.0.16 
+log date: 2017-03-26 21:07:42
+	
+----------------------------------------------------------------------------------------------	
+Analyzed: The Beatles / Abbey Road
+----------------------------------------------------------------------------------------------	
+	
+DR       Peak            RMS         Duration    Track	
+----------------------------------------------------------------------------------------------	
+DR9	 -7.74 dB	 -19.48 dB	 4:20	 01-Come Together	
+DR9	 -7.60 dB	 -19.61 dB	 3:02	 02-Something	
+DR11	 -6.51 dB	 -20.46 dB	 3:27	 03-Maxwell's Silver Hammer	
+DR9	 -6.73 dB	 -19.03 dB	 3:27	 04-Oh! Darling	
+DR10	 -7.86 dB	 -20.04 dB	 2:50	 05-Octopus's Garden	
+DR9	 -6.42 dB	 -17.85 dB	 7:46	 06-I Want You (She's So Heavy)	
+DR10	 -6.42 dB	 -19.63 dB	 3:04	 07-Here Comes The Sun	
+DR9	 -9.20 dB	 -22.22 dB	 2:46	 08-Because	
+DR9	 -8.19 dB	 -21.89 dB	 3:56	 09-You Never Give Me Your Money	
+DR8	 -9.81 dB	 -20.74 dB	 2:31	 10-Sun King	
+DR9	 -7.43 dB	 -17.55 dB	 1:06	 11-Mean Mr. Mustard	
+DR8	 -7.09 dB	 -16.81 dB	 1:17	 12-Polythene Pam	
+DR8	 -7.67 dB	 -17.27 dB	 1:52	 13-She Came In Through The Bathroom Window	
+DR9	 -7.22 dB	 -21.22 dB	 1:31	 14-Golden Slumbers	
+DR9	 -6.75 dB	 -18.03 dB	 1:35	 15-Carry That Weight	
+DR9	 -5.76 dB	 -19.59 dB	 2:20	 16-The End	
+DR11	 -9.59 dB	 -29.23 dB	 0:25	 17-Her Majesty	
+----------------------------------------------------------------------------------------------	
+	
+Number of tracks:  17
+Official DR value: DR9
+	
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           786 kbps
+Codec:             FLAC
+==============================================================================================	
+

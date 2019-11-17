@@ -1,0 +1,31 @@
+﻿Dr14 T.meter 1.0.16 
+log date: 2019-11-16 23:27:19
+	
+----------------------------------------------------------------------------------------------	
+Analyzed: Neil Young / Harvest
+----------------------------------------------------------------------------------------------	
+	
+DR       Peak            RMS         Duration    Track	
+----------------------------------------------------------------------------------------------	
+DR16	 -1.11 dB	 -22.15 dB	 4:33	 01-Out On The Weekend	
+DR14	 -3.39 dB	 -21.28 dB	 3:10	 02-Harvest	
+DR13	 -2.13 dB	 -25.17 dB	 4:04	 03-A Man Needs A Maid	
+DR14	 -2.43 dB	 -19.90 dB	 3:06	 04-Heart Of Gold	
+DR15	 -0.84 dB	 -19.89 dB	 3:23	 05-Are You Ready For The Country?	
+DR13	 -1.97 dB	 -21.36 dB	 3:24	 06-Old Man	
+DR12	 -1.76 dB	 -21.37 dB	 2:58	 07-There's A World	
+DR12	 -2.26 dB	 -17.60 dB	 4:01	 08-Alabama	
+DR14	 -6.24 dB	 -24.62 dB	 2:02	 09-The Needle And The Damage Done	
+DR13	 -1.38 dB	 -19.27 dB	 6:40	 10-Words (Between The Lines Of Age)	
+----------------------------------------------------------------------------------------------	
+	
+Number of tracks:  10
+Official DR value: DR14
+	
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           733 kbps
+Codec:             FLAC
+==============================================================================================	
+

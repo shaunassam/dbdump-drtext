@@ -1,0 +1,32 @@
+﻿Dr14 T.meter 1.0.16 
+log date: 2017-03-26 20:58:55
+	
+----------------------------------------------------------------------------------------------	
+Analyzed: The Monkees / The Monkees Greatest Hits
+----------------------------------------------------------------------------------------------	
+	
+DR       Peak            RMS         Duration    Track	
+----------------------------------------------------------------------------------------------	
+DR11	 -0.98 dB	 -15.85 dB	 2:20	 01-Monkee's Theme	
+DR11	 -0.22 dB	 -14.53 dB	 2:46	 02-Last Train To Clarksville	
+DR12	 -0.00 dB	 -15.31 dB	 2:37	 03-She	
+DR11	 -0.00 dB	 -14.83 dB	 3:06	 04-Daydream Believer	
+DR12	 -0.00 dB	 -14.13 dB	 2:43	 05-Listen To The Band	
+DR12	 -0.00 dB	 -14.25 dB	 2:53	 06-A Little Bit Me, A Little Bit You	
+DR11	 -0.00 dB	 -13.28 dB	 2:46	 07-I'm A Believer	
+DR11	 -2.16 dB	 -16.25 dB	 2:27	 08-I Wanna Be Free	
+DR12	 -0.00 dB	 -13.35 dB	 3:16	 09-Pleasant Valley Sunday	
+DR12	 -0.00 dB	 -14.46 dB	 2:24	 10-(I'm Not Your) Steppin' Stone	
+DR11	 -0.00 dB	 -14.67 dB	 3:25	 11-Shades Of Gray	
+----------------------------------------------------------------------------------------------	
+	
+Number of tracks:  11
+Official DR value: DR11
+	
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           974 kbps
+Codec:             FLAC
+==============================================================================================	
+

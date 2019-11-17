@@ -1,0 +1,31 @@
+﻿Dr14 T.meter 1.0.16 
+log date: 2019-11-16 20:55:01
+	
+----------------------------------------------------------------------------------------------	
+Analyzed: Bob Marley & The Wailers / Exodus
+----------------------------------------------------------------------------------------------	
+	
+DR       Peak            RMS         Duration    Track	
+----------------------------------------------------------------------------------------------	
+DR12	 -0.43 dB	 -15.64 dB	 3:27	 01-Natural Mystic	
+DR13	 -0.00 dB	 -15.20 dB	 3:06	 02-So Much Things to Say	
+DR13	 -0.51 dB	 -16.28 dB	 3:18	 03-Guiltiness	
+DR12	 -1.44 dB	 -15.93 dB	 2:31	 04-The Heathen	
+DR13	 -0.29 dB	 -14.96 dB	 7:38	 05-Exodus	
+DR12	 -0.00 dB	 -13.71 dB	 3:29	 06-Jamming	
+DR13	 -1.26 dB	 -16.38 dB	 4:15	 07-Waiting in Vain	
+DR12	 -1.17 dB	 -16.36 dB	 3:37	 08-Turn Your Lights Down Low	
+DR14	 -0.28 dB	 -15.95 dB	 2:58	 09-Three Little Birds	
+DR14	 -0.00 dB	 -15.35 dB	 2:52	 10-One Love People Get Ready	
+----------------------------------------------------------------------------------------------	
+	
+Number of tracks:  10
+Official DR value: DR13
+	
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           872 kbps
+Codec:             FLAC
+==============================================================================================	
+

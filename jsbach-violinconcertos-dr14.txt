@@ -1,0 +1,33 @@
+﻿Dr14 T.meter 1.0.16 
+log date: 2019-11-16 21:36:58
+	
+----------------------------------------------------------------------------------------------	
+Analyzed: Johann Sebastian Bach / Bach - Solo & Double Violin Concertos
+----------------------------------------------------------------------------------------------	
+	
+DR       Peak            RMS         Duration    Track	
+----------------------------------------------------------------------------------------------	
+DR13	 -0.90 dB	 -18.22 dB	 3:28	 01-Concerto in D Minor for Two Violins BWV 1043 I Vivace	
+DR14	 -1.43 dB	 -22.07 dB	 6:26	 02-Concerto in D Minor for Two Violins BWV 1043 II Largo ma non tanto	
+DR13	 -1.78 dB	 -18.24 dB	 4:29	 03-Concerto in D Minor for Two Violins BWV 1043 III Allegro	
+DR12	 -0.34 dB	 -17.27 dB	 3:39	 04-Concerto in A Minor for Violin BWV 1041 I Allegro	
+DR12	 -5.00 dB	 -23.06 dB	 6:15	 05-Concerto in A Minor for Violin BWV 1041 II Andante	
+DR13	 -0.94 dB	 -18.75 dB	 3:20	 06-Concerto in A Minor for Violin BWV 1041 III Allegro Assai	
+DR13	 -0.42 dB	 -18.74 dB	 7:24	 07-Concerto in E Major for Violin BWV 1042 I Allegro	
+DR13	 -3.98 dB	 -22.84 dB	 6:11	 08-Concerto in E Major for Violin BWV 1042 II Adagio	
+DR13	 -0.77 dB	 -18.85 dB	 2:37	 09-Concerto in E Major for Violin BWV 1042 III Allegro assai	
+DR13	 -0.73 dB	 -17.61 dB	 4:33	 10-Concerto in D Minor for Two Violins BWV 1060 I Allegro	
+DR13	 -6.65 dB	 -23.42 dB	 4:48	 11-Concerto in D Minor for Two Violins BWV 1060 II Adagio	
+DR13	 -0.41 dB	 -17.60 dB	 3:23	 12-Concerto in D Minor for Two Violins BWV 1060 III Allegro	
+----------------------------------------------------------------------------------------------	
+	
+Number of tracks:  12
+Official DR value: DR13
+	
+Samplerate:        44100 Hz
+Channels:          2
+Bits per sample:   16
+Bitrate:           860 kbps
+Codec:             FLAC
+==============================================================================================	
+
