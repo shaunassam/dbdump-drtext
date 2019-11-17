@@ -59,7 +59,7 @@ them into a sqlite database.
 usrdir = True
 while usrdir is True:
     #usrpath = input("Enter the path to your music (i.e. /home/user/Music): ")
-    usrpath = "./dr14"
+    usrpath = "./"
     print(usrpath)
     if len(usrpath) > 1:
         if os.path.isdir(usrpath) is True:
